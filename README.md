@@ -5,4 +5,3 @@ This is the safest (the method of algorithm) password generator using crypto's r
 
 Don't worry, we will never save the passwords we generate nor store what you copy. The whole project is open sourced 🎊
 
-Made by [Rahuletto](https://rahuletto.thedev.id)
